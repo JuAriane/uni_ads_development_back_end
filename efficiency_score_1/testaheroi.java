@@ -1,4 +1,4 @@
-package nota_eficiencia_1;
+package efficiency_score_1;
 
 public class testaheroi {
     public static void main(String[] args) {
