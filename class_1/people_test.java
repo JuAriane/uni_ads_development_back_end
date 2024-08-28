@@ -1,8 +1,8 @@
-package aula_01;
+package class_1;
 
-public class testapessoa {
+public class people_test {
     public static void main(String[] args) {
-        pessoa p1 = new pessoa();
+        people p1 = new people();
         p1.setNome("Laura");
         p1.setIdade(18);
 
